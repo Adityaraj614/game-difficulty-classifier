@@ -3,9 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
-models/*.pkl
-data/raw/*.csv
-data/processed/*.csv
+models/
+data/raw/
+data/processed/
+
 
 # C extensions
 *.so
